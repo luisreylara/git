@@ -35,5 +35,6 @@ Comandos intermedios más utilizados
 
 ```
 $ git commit -am "mensaje"
+$ git log
 
 ```
