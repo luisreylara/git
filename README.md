@@ -1,8 +1,8 @@
 
 comandos básicos de git
 ```
-$ git config --global user.name "John Doe" 
-$ git config --global user.email "johndoe@example.com"
+$ git config --global user.name "Juan Perez" 
+$ git config --global user.email "micorreo@example.com"
 
 $ git config --global -e
 $ git config --list
