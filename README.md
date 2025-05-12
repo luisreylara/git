@@ -68,6 +68,7 @@ $ git diff nombrearchivo
 # Ignorando archivos/carpetas - Git Ignore
 ```
 .gitignore
-```
 
+```
+[gitignore](https://github.com/luisreylara/git/blob/main/.gitignore)
 
