@@ -88,6 +88,9 @@ $git log --oneline
 $ git checkout master
 
 
+// git merge nombre_rama
+
+
 
 ```
 
