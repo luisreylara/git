@@ -4,12 +4,12 @@ comandos configuración GLOBAL
 $ git config --global user.name "Juan Perez" 
 $ git config --global user.email "micorreo@example.com"
 
-```
-Comandos más utilizados
-```
 $ git config --global -e
 $ git config --list
 
+```
+Comandos más utilizados
+```
 $ git init
 $ git status
 $ git add nombre_archivo
