@@ -57,3 +57,10 @@ git config --global alias.s "status --short"
 
 # Alternativa útil de status
 git config --global alias.s "status -sb"
+
+# Trabajando con el contenido del archivo
+```
+$ git diff
+$ git diff nombrearchivo
+
+```
