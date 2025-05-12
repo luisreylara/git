@@ -31,7 +31,7 @@ $ git config --global init.defaultBranch main
 
 ```
 
-Comandos utilizados
+Comandos intermedios más utilizados
 
 ```
 $ git commit -am "mensaje"
