@@ -70,5 +70,25 @@ $ git diff nombrearchivo
 .gitignore
 
 ```
-[gitignore](https://github.com/luisreylara/git/blob/main/.gitignore)
+[gitignore](https://github.com/luisreylara/git/blob/main/.gitignore) 
+
+# Branch - Ramas - Merge
+```
+//Creando una nueva rama
+$ git branch nombre_rama
+
+// moverse a una rama
+$ git checkout nombre_rama
+
+//verificar
+$ git lg
+$git log --oneline
+
+// cambiarse a la rama main-master
+$ git checkout master
+
+
+
+```
+
 
