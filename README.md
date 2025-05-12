@@ -30,3 +30,10 @@ $ git branch -m master main
 $ git config --global init.defaultBranch main
 
 ```
+
+Comandos utilizados
+
+```
+$ git commit -am "mensaje"
+
+```
