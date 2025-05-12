@@ -62,5 +62,12 @@ git config --global alias.s "status -sb"
 ```
 $ git diff
 $ git diff nombrearchivo
-
 ```
+## NOTA: Ver git diff en visual studio code
+
+# Ignorando archivos/carpetas - Git Ignore
+```
+.gitignore
+```
+
+
