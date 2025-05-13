@@ -15,3 +15,8 @@ git remote add origin https://github.com/luisreylara/NOMBRE_REPO.git
 git branch -M main
 git push -u origin main
 ```
+# Subir los TAGS de local a GitHub
+```
+$ git tag
+$ git push --tags
+```
