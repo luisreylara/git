@@ -44,10 +44,9 @@ $ git config --global init.defaultBranch main
 
 ```
 $ git log
-
 ```
 
-Comandos con filtros
+# Creando alias = Comandos con filtros
 ```
 $ git status --short
 $ git log --oneline
