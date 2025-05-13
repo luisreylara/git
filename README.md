@@ -1,5 +1,5 @@
 
-comandos configuración GLOBAL
+# Comandos configuración GLOBAL
 ```
 $ git config --global user.name "Juan Perez" 
 $ git config --global user.email "micorreo@example.com"
@@ -8,7 +8,7 @@ $ git config --global -e
 $ git config --list
 
 ```
-Comandos más utilizados
+# Comandos iniciales
 ```
 $ git init
 $ git status
@@ -18,23 +18,29 @@ $ git reset nombre_archivo
 
 $ git commit -m "primer commit"
 $ git status
-
-// recuperar las ultimas actualizaciones realizadas
+```
+* recuperar las ultimas actualizaciones realizadas
+```
 $git checkout -- .
+```
 
-// Saber la rama 
+* Saber en que RAMA existen y estamos ubicados
+
+```
 $ git branch
 $ git status
-
-// cambiar el nombre de la rama
+```
+* Cambiar el nombre de la rama
+```
 $ git branch -m master main
-
-// configurar desde la variables globales que la rama principal sea main por master
+```
+* Configurar desde la variables globales que la rama principal sea **main** en lugar de  **master**
+```
 $ git config --global init.defaultBranch main
 
 ```
 
-Comandos intermedios más utilizados
+# Comandos intermedios más utilizados
 
 ```
 $ git log
