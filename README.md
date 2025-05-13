@@ -96,13 +96,25 @@ $ git branch
 ```
 
 # Juntar master y una rama_nueva
+>[!IMPORTANT]
+>
+>tiene que estar ubicado en la RAMA  master-main
+
 ```
-Nota: tiene que estar en el master-main
 $git merge rama_nueva
-Nota: corregir los conflictos
+```
+>[!NOTE]
+>
+>corregir los conflictos
+```
 $ git status
 $ git add .
 $ git commit -m "conflicto resuelto"
 $ git lg
 
 ```
+# TAGS o etiquetas son una referencia a un commit específico, son utilizados para marcar versiones o releases de nuestra app
+```
+```
+
+
