@@ -4,7 +4,6 @@
 >GitHub es una plataforma de desarrollo colaborativo de software para alojar proyectos
 >---
 
->[!NOTE]
+>[!TIP]
 >
->GitHub es una plataforma de desarrollo colaborativo de software para alojar proyectos
->---
+>En este MarkDown documentariemos lo necesario para realizar actualizaciones de Git a GitHub
