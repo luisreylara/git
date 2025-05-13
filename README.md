@@ -88,7 +88,10 @@ $git log --oneline
 $ git checkout master
 
 
-// git merge nombre_rama
+//Crear una rama y cambiarse de manera automática en la rama creada
+$ git checkout -b rama_nueva
+$ git branch
+
 
 
 
