@@ -139,7 +139,7 @@ $ git tag -d tag_nuevo
 >[!IMPORTANT]
 >
 > Se recomienda utilizar el nombre del TAG relacionado con alguna version
->-------
+
 * Creamos un TAG con version
 ```
 $ git tag -a v1.0.0 -m "Version 1.0.0 lista"
