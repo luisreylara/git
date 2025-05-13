@@ -80,15 +80,15 @@ $ git branch nombre_rama
 // moverse a una rama
 $ git checkout nombre_rama
 
-//verificar
+* verificar
 $ git lg
 $git log --oneline
 
-// cambiarse a la rama main-master
+* Cambiarse a la rama main-master
 $ git checkout master
 
 
-//Crear una rama y cambiarse de manera automática en la rama creada
+* Crear una rama y cambiarse de manera automática en la rama creada
 $ git checkout -b rama_nueva
 $ git branch
 
@@ -113,8 +113,37 @@ $ git commit -m "conflicto resuelto"
 $ git lg
 
 ```
-# TAGS o etiquetas son una referencia a un commit específico, son utilizados para marcar versiones o releases de nuestra app
+# TAGS o etiquetas son una referencia a un commit específico,
+>[!IMPORTANT]
+>
+> Son utilizados para marcar versiones o releases de nuestra app
+
+* Crar una tag
 ```
+$ git tag nuevo_tag
+$ git lg
 ```
+* Ver todos los tags que se han creado
+```
+$ git tag
+```
+* Borrar un TAG
+```
+$ git tag -d tag_nuevo
+```
+>[!IMPORTANT]
+>
+> Se recomienda utilizar el nombre del TAG relacionado con alguna version
+>-------
+* Creamos un TAG con version
+```
+$ git tag -a v1.0.0 -m "Version 1.0.0 lista"
+$ git lg
+```
+* Para ver información con respecto a algun TAG
+```
+$ git show v1.0.0
+```
+
 
 
