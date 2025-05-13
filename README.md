@@ -93,8 +93,15 @@ $ git checkout -b rama_nueva
 $ git branch
 
 
-
-
 ```
 
+# Juntar master y una rama_nueva
+```
+Nota: tiene que estar en el master-main
+$git merge rama_nueva
+Nota: corregir los conflictos
+$ git status
+$ git add .
+$ git commit -m "conflicto resuelto"
 
+```
