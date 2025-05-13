@@ -103,5 +103,6 @@ Nota: corregir los conflictos
 $ git status
 $ git add .
 $ git commit -m "conflicto resuelto"
+$ git lg
 
 ```
