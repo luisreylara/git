@@ -78,27 +78,34 @@ $ git diff nombrearchivo
 [gitignore](https://github.com/luisreylara/git/blob/main/.gitignore) 
 
 # Branch - Ramas - Merge
+
+* Creando una nueva rama
 ```
-//Creando una nueva rama
 $ git branch nombre_rama
-
-// moverse a una rama
+```
+* moverse a una rama
+```
 $ git checkout nombre_rama
+```
 
-* verificar
+* verificar RAMA
+```
 $ git lg
 $git log --oneline
+```
 
 * Cambiarse a la rama main-master
+```
 $ git checkout master
-
+```
 
 * Crear una rama y cambiarse de manera automática en la rama creada
+```
 $ git checkout -b rama_nueva
 $ git branch
-
-
 ```
+
+
 
 # Juntar master y una rama_nueva
 >[!IMPORTANT]
@@ -106,7 +113,7 @@ $ git branch
 >tiene que estar ubicado en la RAMA  master-main
 
 ```
-$git merge rama_nueva
+$ git merge rama_nueva
 ```
 >[!NOTE]
 >
