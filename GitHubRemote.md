@@ -6,5 +6,5 @@
 
 >[!TIP]
 >
->En este MarkDown documentariemos lo necesario para realizar actualizaciones de Git a GitHub
+>En este MarkDown documentaremos lo necesario para realizar actualizaciones de Git a GitHub
 
