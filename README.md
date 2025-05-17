@@ -78,6 +78,10 @@ $ git diff nombrearchivo
 [gitignore](https://github.com/luisreylara/git/blob/main/.gitignore) 
 
 # Branch - Ramas - Merge
+* Cuantas ramas existen?
+```
+$ git branch
+```
 
 * Creando una nueva rama
 ```
