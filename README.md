@@ -108,7 +108,10 @@ $ git checkout master
 $ git checkout -b rama_nueva
 $ git branch
 ```
-
+* Borrar una rama 
+```
+$ git branch -d rama_nueva
+```
 
 
 # Juntar master y una rama_nueva
