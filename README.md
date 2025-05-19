@@ -163,6 +163,9 @@ $ git lg
 ```
 $ git show v1.0.0
 ```
-
+* Subir todos los tags desde git a GitHub
+```
+$ git push --tags
+```
 
 
