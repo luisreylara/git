@@ -112,17 +112,15 @@ $ git branch
 ```
 $ git branch -d rama_nueva
 ```
-// para borrar la branch local
-git branch -d localBranchName
 
 * para borrar la branch remota
 ``` 
-git push origin --delete remoteBranchName
+$ git push origin --delete remoteBranchName
 ``` 
 
 * para borrar la branch local
 ``` 
-git branch -d localBranchName
+$ git branch -d localBranchName
 ```
 
 # Juntar master y una rama_nueva
