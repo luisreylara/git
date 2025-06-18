@@ -165,16 +165,16 @@ $ git tag -d tag_nuevo
 
 * Creamos un TAG con version
 ```
-$ git tag -a v1.0.0 -m "Version 1.0.0 lista"
+git tag -a v1.0.0 -m "Version 1.0.0 -"
 $ git lg
 ```
 * Para ver información con respecto a algun TAG
 ```
-$ git show v1.0.0
+git show v1.0.0
 ```
 * Subir todos los tags desde git a GitHub
 ```
-$ git push --tags
+git push --tags
 ```
 
 
